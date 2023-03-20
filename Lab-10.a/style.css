@@ -1,0 +1,116 @@
+#delly {
+    font-family: 'Charm';
+    font-size: 40px;
+    margin-left: 50px;
+  }
+  
+  header{
+    padding-top: 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  
+  h1 {
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+    text-decoration: solid;
+  }
+  
+  body p {
+    font-size: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  
+  header p {
+    margin-left: 50px;
+  }
+  #logo {
+    position: absolute;
+    top: 15px;
+    padding-right: 15px;
+  }
+  
+  #images {
+    position: absolute;
+    top: 35px;
+    right: 100px;
+  }
+  
+  nav {
+    text-align: center;
+    padding-top: 25px;
+  }
+  
+  #chocolatePizza {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    width: 90%;
+    height: 750px;
+  }
+  
+  #print {
+    float: right;
+  }
+  
+  #para {
+    font-size: 25px;
+    margin-top: 25px;
+    margin-right: 100px;
+  }
+  
+  #img{
+    margin-left: 900px;
+    margin-right: 100px;
+    margin-top: 25px;
+    width: 1000px;
+    background-image: url("../img/list-bg.png");
+    background-repeat: no-repeat;
+    font-size: 35px
+  }
+  #list1{
+    float: left;
+  }
+  #list2{
+    margin-left: 500px;
+  }
+  
+  footer img{
+    margin-left: 100px;
+    margin-top: 5px;
+    position: absolute;
+  }
+  footer h1{
+    margin-left: 200px;
+  }
+  footer p{
+    margin-left: 200px;
+    font-size: 18px;
+  }
+  footer button{
+    /* float: right; */
+    background-color: rgb(235, 100, 11);
+    height: 50px;
+    width: 150px;
+    border: none;
+    color: white;
+    position: absolute;
+    right: 5px;
+    margin-right: 125px;
+  }
+  
+  #Bottom p{
+    margin-top: 50px;
+    color: rgb(250, 245, 245);
+  }
+  #Bottom img{
+    opacity: 0.5;
+    
+  }
+  #veryBottom{
+    margin-top: 75px;
+    text-align: center;
+  }
